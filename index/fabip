@@ -1,0 +1,42 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <title> CV FABIOLA PATIÑO</title>
+  </head>
+  <body>
+ <h1>Fabiola Rossana Patiño Salinas</h1>
+ <h2>Sobre Mi</h2>
+ <p>Apasianoda por la tecnologia y la programacion. Motivada en aprender y aplicar a nuevas tecnologias 
+  para resolver problemas y crear soluciones. Con etica de trabajo y una mentalidad orientada a los detalles
+  apuntando siempre a la innovacion.
+ </p>
+ <div>
+  <h2>Datos Personales</h2>
+  <p> Fecha de nacimiento :12 de julio del 1997
+    Lugar de nacimiento: Asuncion
+    Estado civil: Soltera 
+    Contactos: (981) 326 446 / (982) 052296
+    correo: fabipatisali@gmail.com 
+    Linkedin: https://www.linkedin.com/in/fabiola-p-857131a6?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app
+  </p>
+ </div>
+ <div>
+  <h2>Educacion</h2>
+  <p>Educacion basica 
+    Escuela basica Gral. de Division Adrian Jara
+    1° al 9° grado 2013
+  Educacion Media 
+  Colegio Gabriela Mistral
+  1° al 3er curso 2016
+  Bachiller en ciencias sociales.
+  </p>
+  <h2>Otros Estudios</h2>
+  <p>Community Manager - social media 
+    IDT - instituto de  Diseño y tecnologia 2016
+    INGLES MODULO ll
+    Teatro 
+    Cooperativa de Luque Ltda 2013
+  </p>
+  
+ </div>
+  </body>  
